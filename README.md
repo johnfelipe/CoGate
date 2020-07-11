@@ -2,6 +2,9 @@
 Wearing mask, please enter!
 
 ![Video](https://github.com/PIYSocial-India/CoGate/blob/master/assests/video/cogate.gif)
+
+## Check the Documentation 
+[Presentation](https://www.canva.com/design/DAD-Y422XEI/CIKMTIcU1RLkZEMcGoaLZQ/view)
 ## How to use it?
 - Download the Zip file. And store it in your local directory.
 
