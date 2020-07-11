@@ -1,6 +1,7 @@
 # CoGate
 Wearing mask, please enter!
 
+![Video](https://github.com/PIYSocial-India/CoGate/blob/master/assests/video/cogate.gif)
 ## How to use it?
 - Download the Zip file. And store it in your local directory.
 
