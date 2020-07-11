@@ -5,6 +5,7 @@ Wearing mask, please enter!
 
 ## Check the Documentation 
 [Presentation](https://www.canva.com/design/DAD-Y422XEI/CIKMTIcU1RLkZEMcGoaLZQ/view)
+
 ## How to use it?
 - Download the Zip file. And store it in your local directory.
 
@@ -45,6 +46,8 @@ Wearing mask, please enter!
 - Run the index.html and make sure that you are connected to internet.
 - Now you are good to go! 
 
+## Test the mask detection
+If you want to test our mask detection then [Click Here](https://piysocial-india.github.io/CoGate/) to test it.
 ### Contributors:
 Saswat Samal | Sanket Sanjeeb Pattanaik
 ------------ | -------------
